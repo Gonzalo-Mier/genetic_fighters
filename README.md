@@ -70,7 +70,7 @@ To modify the match displayed, change the 'generation' and 'match' parameter.
 ## Authors
 
 * **Julio López Paneque** - [JulioLP](https://github.com/JulioLP)
-* **Me** - [Gonmiermu](https://github.com/Gonmiermu)
+* **Gonzalo Mier** - [Gonmiermu](https://github.com/Gonmiermu)
 
 ## License
 
